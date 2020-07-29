@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/knowvishnu/knowvishnu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/knowvishnu/knowvishnu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 
 ### Support or Contact
